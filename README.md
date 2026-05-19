@@ -1,12 +1,12 @@
 # 🧹 Dynamic Data Cleaning Automation
 
-An AI-assisted automation project designed to simplify and accelerate data cleaning workflows using Prompt Engineering techniques. This project demonstrates how Generative AI can be leveraged to automate repetitive preprocessing tasks without manually writing traditional code logic.
+An AI-assisted automation project designed to simplify and accelerate data cleaning workflows using Prompt Engineering techniques. This project demonstrates how Generative AI can be leveraged to automate repetitive preprocessing tasks with minimal manual coding
 
 ---
 
 # 📌 Project Overview
 
-Data cleaning is one of the most time-consuming stages in data analysis and machine learning workflows. This project was developed as part of a Prompt Engineering learning module, where the complete automation workflow was generated and optimized using AI prompts.
+Data cleaning is one of the most time-consuming stages in data analysis and machine learning workflows. This project was developed as part of a Prompt Engineering learning module, where the automation workflow was developed and refined using Prompt Engineering techniques and AI-assisted development practices.
 
 The application is designed to:
 - Handle missing values
@@ -66,7 +66,13 @@ The automation pipeline performs the following operations:
 6. Export cleaned data
 
 ---
+# 💡 Why This Project
 
+This project was created to explore how Prompt Engineering and Generative AI can accelerate repetitive data preprocessing workflows. 
+
+The goal was to understand how AI-assisted development can improve productivity, reduce manual effort, and simplify common data cleaning operations for end users.
+
+---
 # 🎯 Key Learning Outcomes
 
 - Understanding Prompt Engineering workflows
