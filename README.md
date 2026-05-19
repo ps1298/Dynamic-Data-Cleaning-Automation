@@ -1,1 +1,87 @@
-# Dynamic-Data-Cleaning-Automation
+# 🧹 Dynamic Data Cleaning Automation
+
+An AI-assisted automation project designed to simplify and accelerate data cleaning workflows using Prompt Engineering techniques. This project demonstrates how Generative AI can be leveraged to automate repetitive preprocessing tasks without manually writing traditional code logic.
+
+---
+
+# 📌 Project Overview
+
+Data cleaning is one of the most time-consuming stages in data analysis and machine learning workflows. This project was developed as part of a Prompt Engineering learning module, where the complete automation workflow was generated and optimized using AI prompts.
+
+The application is designed to:
+- Handle missing values
+- Remove duplicate records
+- Standardize inconsistent data
+- Improve preprocessing efficiency
+- Automate repetitive cleaning operations
+
+This project highlights the practical integration of:
+- Prompt Engineering
+- Generative AI
+- Automation Workflows
+- Data Preprocessing
+
+---
+
+# 🚀 Features
+
+✅ AI-Assisted Data Cleaning  
+✅ Automated Missing Value Handling  
+✅ Duplicate Record Removal  
+✅ Data Formatting & Standardization  
+✅ Beginner-Friendly Interface  
+✅ Reusable Automation Workflow  
+✅ Improved Data Consistency  
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Prompt Engineering
+- Generative AI Concepts
+- Jupyter Notebook
+
+---
+
+# 📸 Project Screenshots
+
+## 🔹 Application Interface
+
+![Project Preview](preview.png)
+
+---
+
+# ⚙️ How It Works
+
+The automation pipeline performs the following operations:
+
+1. Import dataset
+2. Detect missing/null values
+3. Remove duplicate entries
+4. Standardize inconsistent formats
+5. Clean and preprocess the dataset
+6. Export cleaned data
+
+---
+
+# 🎯 Key Learning Outcomes
+
+- Understanding Prompt Engineering workflows
+- Exploring AI-assisted automation
+- Building preprocessing pipelines
+- Applying Generative AI concepts in practical scenarios
+- Improving workflow efficiency through automation
+
+---
+
+
+
+## LinkedIn
+https://www.linkedin.com/in/prem-sai-856404406/
+
+---
+
+# ⭐ If you found this project interesting, consider giving it a star!
