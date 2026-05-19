@@ -77,9 +77,15 @@ The automation pipeline performs the following operations:
 
 ---
 
+## End User Accessibility
 
+The application is designed for non-technical users and can be used without any programming knowledge.
 
-## LinkedIn
+A standalone Windows executable (.exe) version of the application is also available, allowing users to run the software without installing Python or development tools.
+
+## Connect
+
+For executable access, collaboration, or project discussions, feel free to connect:
 https://www.linkedin.com/in/prem-sai-856404406/
 
 ---
