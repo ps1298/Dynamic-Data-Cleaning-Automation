@@ -42,7 +42,7 @@ This project highlights the practical integration of:
 - NumPy
 - Prompt Engineering
 - Generative AI Concepts
-- Jupyter Notebook
+- Visual Studio Code
 
 ---
 
